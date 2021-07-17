@@ -1,0 +1,61 @@
+body{
+    background: rgba(6, 172, 248, 0.986);
+    font: normal 15pt Arial;
+    }
+    
+    header{
+        color: white;
+        text-align: center;
+    }
+    
+    section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 520px;
+    margin: auto; /*margin ao meio*/
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.658);
+    }
+    input[type=button],  input[type=image]{
+        width: 100%;
+        
+    }
+    H1{
+      text-align: center;
+    }
+    #tela[type="text"]{ padding: 20px 10px; line-height: 28px; text-align: right;}
+    #tab1 tr td {
+        border: none;
+      }
+    #calculadora {
+  border: 1px solid black;
+  background: rgba(6, 172, 248, 0.986);
+  margin: auto;
+}
+#calculadora tr {
+  background: white;
+  
+}
+#calculadora tr td {
+  background: rgba(6, 172, 248, 0.986);
+  
+}
+    
+    img {
+        border-radius: 50%;
+        height: 250px;
+        width: 250px;
+      }
+    
+      div{
+          
+          padding: 8px;
+      }
+    
+   
+
+    footer{
+        color: white;
+        text-align: center;
+        font-style: italic;
+    }
